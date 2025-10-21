@@ -1,5 +1,5 @@
 # git-tutorial-4
-Tutorial 4-Git Collaboration.
+Tutorial 4 Git Collaboration.
 
 The purpose of this repository is to:
 ● Understand how to initialize and manage a local Git repository 
