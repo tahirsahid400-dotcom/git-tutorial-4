@@ -23,4 +23,4 @@ Step 9 - Wait for your collaborator to review and approve your PR.
 Step 10: Once approved, merge the new branch into the main (master) branch. 
 
 In this repository, the two collaborators are:
-Somesh Nauth and Tahir Sahid.
+Tahir Sahid and Somesh Nauth.
